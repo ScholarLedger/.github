@@ -45,4 +45,4 @@ Utilizing decentralized computing with blockchain technology is foundational to 
 Substrate's advanced blockchain framework supports these decentralized applications, offering the flexibility and robustness needed for ScholarLedger.
 
 ## Contributions
-SPEEM is currently a work in progress. We are excited about community contributions! While the initial development up to v1 is being carried out internally, we eagerly anticipate and welcome community contributions post-v1 release. Once there, please feel free to fork the repository, and prepare pull requests for features you believe would enhance the SPEEM toolkit.
+ScholarLedger is currently a work in progress. We are excited about community contributions! While the initial development up to v1 is being carried out internally, we eagerly anticipate and welcome community contributions post-v1 release. Once there, please feel free to fork the repository, and prepare pull requests for features you believe would enhance the ScholarLedger project.
